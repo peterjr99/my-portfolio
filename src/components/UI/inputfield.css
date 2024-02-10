@@ -1,0 +1,11 @@
+.formcontrol{
+    margin-bottom: 10px;
+    background: transparent;
+    width: 390px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 2px;
+    border: 2px solid white;
+    color: white;
+    
+}

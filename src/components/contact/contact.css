@@ -1,0 +1,71 @@
+#contact{
+    background: black;
+    color: white;
+    font-weight: 500;
+    margin-top: -70px;
+}
+
+#contact h1{
+    color: white;
+    margin-bottom: 20px;
+}
+
+
+
+.form{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-control{
+    margin-bottom: 10px;
+    background: transparent;
+    width: 30px;
+}
+
+.textarea{
+    background: transparent;
+    width: 390px;
+    height: 120px;
+    border-radius: 5px;
+    padding: 2px;
+    border: 2px solid white;
+    color: white;
+}
+
+button{
+color: white;
+border-radius: 15px;
+background-color:  rgb(223, 133, 15);
+
+height: 40px;
+width: 100px;
+
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 500;
+    transition: all 0.5s ease;
+    box-shadow: 0px 0px 5px 1px;
+    border-radius: 8px!important;
+    
+}
+
+#contact ul{
+    display: flex;
+    margin-top: 100px;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 30px 
+}
+
+#contact p{
+    text-align: center;
+}
+
+::placeholder{
+    color: gray;
+}

@@ -1,0 +1,26 @@
+#navbar{
+    background-color: black;
+    font-family: 'Open Sans';
+    
+    
+}
+.nav-brand{
+  font-family: 'Open Sans';
+color: rgb(223, 133, 15) !important;
+font-size: 30px !important;
+font-weight: 600;
+font-style:italic
+
+}
+.nav-link{
+  font-family: 'Open Sans';
+ color: white !important;
+ font-size: 16px !important;
+ font-weight: bolder !important;
+}
+.nav-link:hover {
+text-decoration: underline rgb(223, 133, 15);
+text-underline-offset: 1rem;
+
+    
+  }
